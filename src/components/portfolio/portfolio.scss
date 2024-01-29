@@ -2,6 +2,7 @@
 
 .portfolio {
   position: relative;
+  
 
   .progress {
     position: sticky;
@@ -30,6 +31,7 @@
     width: 100%;
     height: 100%;
     overflow: hidden;
+    background: linear-gradient(180deg, #561C24, #111132);
 
     .wrapper {
       max-width: 1366px;
